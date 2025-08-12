@@ -1,0 +1,42 @@
+[
+    {
+        "no": 1,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) Many people are using laptops in a large indoor space.\n- (2) There is a sign with the word \"EXIT.\"\n- (3) People are shopping in a mall.\n- (4) The phrase \"DIVE 2024 IN BUSAN\" is visible.",
+        "img": "busan_dive.jpg"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following descriptions of the image is incorrect?\n\n- (1) A red brick building is visible.\n- (2) There is a yellow sculpture.\n- (3) The words \"Local Stitch\" are visible on the building.\n- (4) There are people walking on the path.",
+        "img": "local_stitch.jpg"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) There is a yellow section visible in the café.\n- (2) Two people are standing near the counter.\n- (3) Trees are visible outside through the windows.\n- (4) A large green plant is placed in the center of the café.",
+        "img": "local_stitch_terrarosa.jpg"
+    },
+    {
+        "no": 4,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) The building is made of brick.\n- (2) There is a sign for 'PERSONAL COFFEE' on the first floor.\n- (3) Solar panels are installed on top of the building.\n- (4) There are orange cones on the road in front of the building.",
+        "img": "mangwon.jpg"
+    },
+    {
+        "no": 5,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) There are various types of bread displayed on the shelf.\n- (2) There are two clerks and both are wearing hats.\n- (3) There are prices labeled on each type of bread.\n- (4) Fruits are displayed below the shelf.",
+        "img": "mangwon_bakery.jpg"
+    },
+    {
+        "no": 6,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are seen working.\n- (2) There is a store named \"Nutricore\" on the right.\n- (3) The store's name is 'pomme verte.'\n- (4) People are planting trees.",
+        "img": "sangam_interior.jpg"
+    },
+    {
+        "no": 7,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are seated at various tables.\n- (2) All the lights in the room are turned off.\n- (3) The outside is visible through large windows.\n- (4) The floor is made of wood.",
+        "img": "seolleung_terrarosa.jpg"
+    },
+    {
+        "no": 8,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are gathered in front of a large bus.\n- (2) There are autumn trees visible on the street.\n- (3) Some people are lining up inside the cafe.\n- (4) A person is using a mobile phone.",
+        "img": "stanford_coffee.jpg"
+    }
+]
